@@ -1,5 +1,8 @@
 # space-rafaelo
 
+cos tam trzeba napisac, spr commit
+
+
 ## Project setup
 ```
 yarn install
