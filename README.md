@@ -1,7 +1,7 @@
 # space-rafaelo
-
-cos tam trzeba napisac, spr commit
-
+```
+1st commit
+```
 
 ## Project setup
 ```
